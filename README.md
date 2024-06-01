@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-radius: 125px;"  src="https://github.com/prayansh2/prayansh2/blob/main/gitimg.gif?raw=true" width="270">
+  <img style="border-radius: 125;"  src="https://github.com/prayansh2/prayansh2/blob/main/gitimg.gif?raw=true" width="270">
 </p>
 <h1 align="center">Hi <img src="https://github.com/prayansh2/prayansh2/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Priyanshu Saini </h1>
 
